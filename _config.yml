@@ -1,10 +1,10 @@
 # Site settings
-title: Globien Interlingu
-SEOTitle: Globien - Makes Communication Easier
+title: Wang zhijian's blog
+SEOTitle: Who makes Xidian great?
 header-img: img/post-bg-desk.jpg
-email: globien@outlook.com
-description: "Easy to learn, no more hard work to recite vocabulary."
-keyword: "Constructed Language, Ligua Franca, Interlingua, Globien"
+email: 2391896693@qq.com
+description: 我的个人博客
+keyword: 博客
 url: "https://globien.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/globien/globien.github.io.git" # you code repository
